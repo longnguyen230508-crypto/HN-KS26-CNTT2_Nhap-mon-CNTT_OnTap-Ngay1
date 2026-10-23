@@ -3,7 +3,7 @@
 
   
 
--  **Họ tên:** Nguyễn Hồng Quân
+-  **Họ tên:** Nguyễn đức long
 
 -  **Lớp:** CNTT2
 
